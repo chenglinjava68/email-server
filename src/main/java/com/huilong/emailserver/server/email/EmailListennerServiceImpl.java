@@ -37,7 +37,7 @@ public class EmailListennerServiceImpl implements EmailListennerService {
         mailEntity.setHost("smtp.163.com");
         mailEntity.setSender("zhanghl7365@163.com");
         mailEntity.setName("监控主机");
-        mailEntity.setPassword("long7365");
+        mailEntity.setPassword("？？？？？");
         mailEntity.setMessage("监控——测试邮件");
         mailEntity.setSubject("服务异常");
         mailEntity.setUsername("zhanghl7365@163.com");
